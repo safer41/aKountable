@@ -10,6 +10,8 @@ pip install aKountable
 ```
 
 ## Usage
+First, say STOP! to people cheating on AI audits.
+
 Start getting [Tierion](https://tierion.com) credentials for free. You will need a username, password and [api keys](https://tierion.com/docs/dataapi). This is what we use to talk with the Blockchain.
 
 Create a [Keras](https://keras.io) model and an aKountable object
