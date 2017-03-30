@@ -52,7 +52,7 @@ aK.validate()
 If successful, get yourself [saferAI](http://www.saferai.com) **aKountable** badge! See full example [here]('https://github.com/safer41/aKountable/tree/master/examples/Hello\ World\ Peace!.ipynb').
 
 ## Documentation
-[CisD]('https://github.com/safer41/aKountable/tree/master/aKountable/aKountable.py')
+[CisD]('https://github.com/safer41/aKountable/blob/master/aKountable/aKountable.py')
 
 ## ToDO
 * Add functionality to save **aKountable** receipt together with Keras model
