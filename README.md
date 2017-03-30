@@ -2,7 +2,7 @@
 ![aKountable](https://img.shields.io/badge/aKountable-True-brightgreen.svg)  
 
 Safe, accountable AI in the Blockchain!  
-by [saferAI](www.saferai.com)
+by [saferAI](http://www.saferai.com)
 
 ## Installation
 ```bash
@@ -49,7 +49,7 @@ Be **aKountable**!
 aK.validate()
 ```
 
-If successful, get yourself [saferAI](www.saferai.com) **aKountable** badge! See full example [here]('https://github.com/safer41/aKountable/tree/master/examples/Hello\ World\ Peace!.ipynb').
+If successful, get yourself [saferAI](http://www.saferai.com) **aKountable** badge! See full example [here]('https://github.com/safer41/aKountable/tree/master/examples/Hello\ World\ Peace!.ipynb').
 
 ## Documentation
 [CisD]('https://github.com/safer41/aKountable/tree/master/aKountable/aKountable.py')
