@@ -6,7 +6,7 @@ from setuptools import setup
 here = os.path.abspath(os.path.dirname(__file__))
 install_requires = [
     "keras==2.0.0",
-    "tensorflow==1.0.1"
+    "tensorflow==1.15.2"
 ]
 
 setup(
